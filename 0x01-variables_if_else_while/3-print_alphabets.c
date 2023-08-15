@@ -15,7 +15,7 @@ while (lowerCase <= 'z')
 putchar(lowerCase);
 lowerCase += 1;
 }
-while (lowerCase <= 'z')
+while (upperCase <= 'Z')
 {
 putchar(upperCase);
 upperCase += 1;
